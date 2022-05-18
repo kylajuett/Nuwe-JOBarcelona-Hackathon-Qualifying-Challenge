@@ -1,4 +1,4 @@
-# Nuwe-Schneider-Electric-Hackathon-Qualifying-Challenge
+# Nuwe-JOBarcelona-Hackathon-Qualifying-Challenge
 20220518
 
 This is my submission for the qualifying challenge for the hackathon for Juniors taking place on 20220531, which is run by Nuwe & hosted by Schneider Electric. 
