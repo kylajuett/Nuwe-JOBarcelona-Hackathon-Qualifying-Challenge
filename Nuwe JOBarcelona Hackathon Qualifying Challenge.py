@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # _Nuwe Schneider Electric Hackathon Qualifying Challenge_
+# # _Nuwe JOBarcelona Hackathon Qualifying Challenge_
 #     _20220518, Kyla Juett_
 
 # ## Business Case
