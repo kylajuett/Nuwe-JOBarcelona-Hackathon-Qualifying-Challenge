@@ -1,7 +1,7 @@
 # Nuwe-JOBarcelona-Hackathon-Qualifying-Challenge
 20220518
 
-This is my submission for the qualifying challenge for the hackathon for Juniors taking place on 20220531, which is run by Nuwe & hosted by Schneider Electric. 
+This is my submission for the qualifying challenge for the hackathon for Juniors taking place on 20220531.
 
 I built ML classification models Logistic Regression & Random Forest Classifier, as well as a classification pipeline which considered Logistic Regression, Random Forest Classifier, Decision Tree Classifier, KNeighbors Classifier, Gaussian NB, & SVM.
 
